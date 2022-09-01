@@ -67,7 +67,4 @@ twitterBtn.addEventListener('click', tweetQuote);
 
  //On Load
 getQuotes();
-//newQuote();
 loading();
-
-//https://jacintodesign.github.io/quotes-api/data/quotes.json'
