@@ -88,7 +88,7 @@ button:active {
     border-radius: 50%;
     width: 120px;
     height: 120px;
-    animation: apin 2s linear infinite;
+    animation: spin 2s linear infinite;
 }
 
 @keyframes spin {
